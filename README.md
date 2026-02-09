@@ -15,6 +15,9 @@
 
 
 
+## User personas:
+
+<img width="1438" height="1075" alt="Screenshot 2026-02-09 at 20 20 11" src="https://github.com/user-attachments/assets/241cb794-b3f8-4a80-bb48-a87476bfee77" />
 
 
 
