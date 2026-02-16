@@ -117,7 +117,7 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 ## Acceptance Criteria: 
 
--	Accessing saved itineraries
+-	Accessing saved plans
 	
 -	Given Deshan has already created travel plans on the platform,
 	
@@ -125,7 +125,11 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 	
 -	Then he should be able to view a structured list of his previously saved trips.
 
+## Modifying an existing itinerary:
 
+-   Given Deshan selects one of his saved trips,
 
+- 	When he chooses the option to modify it,
 
- 
+-	hen the itinerary details should open in an editable format.
+
