@@ -133,3 +133,10 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 -	hen the itinerary details should open in an editable format.
 
+## 	Adjusting trip details:
+
+-	Given Deshan is updating his itinerary,
+
+-	When he changes dates or edits activities,
+
+-	Then the schedule should refresh immediately to reflect the new information.
