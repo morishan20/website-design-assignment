@@ -95,4 +95,27 @@ As a returning user and a father, I want the website to store my information as 
 ## Frequent User (Deshan):
 As a frequent traveller and engineer, I want a clean and organised travel planning website that allows me to clearly view, edit, and update my daily itineraries quickly so that I can manage both business and leisure trips efficiently without wasting time.
 
+## Tasks Deshan will perform on the website: 
+
+- Open the website
+  
+-	Navigate to the “My Plans” Section
+  
+-	View previously created trip plans
+  
+-	Select an existing trip
+  
+-	Edit destinations or daily activities
+  
+-	Add or remove activities
+  
+-	Rearrange Itinerary days
+  
+-	Review the updated trip summary
+  
+-	Save the updated plan
+
+
+
+
  
