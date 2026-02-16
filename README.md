@@ -140,3 +140,11 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 -	When he changes dates or edits activities,
 
 -	Then the schedule should refresh immediately to reflect the new information.
+
+## Reviewing the updated plan:
+
+-	Given Deshan has finished making changes,
+
+-	When he reviews the trip overview,
+
+-	Then he should see a clear, organised breakdown of each day’s activities before saving.
