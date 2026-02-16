@@ -117,6 +117,15 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 ## Acceptance Criteria: 
 
+-	Accessing saved itineraries
+	
+-	Given Deshan has already created travel plans on the platform,
+	
+-	When he signs in and opens his dashboard,
+	
+-	Then he should be able to view a structured list of his previously saved trips.
+
+
 
 
  
