@@ -90,6 +90,9 @@ As a returning user and a father, I want the website to store my information as 
 
  
 
- 
+
+
+## Frequent User (Deshan):
+As a frequent traveller and engineer, I want a clean and organised travel planning website that allows me to clearly view, edit, and update my daily itineraries quickly so that I can manage both business and leisure trips efficiently without wasting time.
 
  
