@@ -131,7 +131,7 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 - 	When he chooses the option to modify it,
 
--	hen the itinerary details should open in an editable format.
+-	Then the itinerary details should open in an editable format.
 
 ## 	Adjusting trip details:
 
