@@ -21,6 +21,7 @@
 
 <img width="1438" height="1075" alt="John UX Persona" src="https://github.com/user-attachments/assets/05505f22-285f-412a-89ac-28786e079391" />
 
+<img width="1438" height="1075" alt="Persona Screenshot" src="https://github.com/user-attachments/assets/4c63c5dd-1e15-4fd6-b4d0-918c8e0efbec" />
 
 
 
