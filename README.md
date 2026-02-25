@@ -155,3 +155,17 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 -	When he reviews the trip overview,
 
 -	Then he should see a clear, organised breakdown of each day’s activities before saving.
+
+
+
+
+
+
+
+
+
+
+
+
+##References 
+Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.
