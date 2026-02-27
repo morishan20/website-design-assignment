@@ -1,9 +1,9 @@
 # **Website-Design-Assignment**
-## **Business needs and justification for web development:** 
 
 
 
-### **Issues with current business and why a website is needed:**
+
+
 
 
 
@@ -30,8 +30,66 @@ The issues with the competitive Wanderlog website seen with images below is that
 <img width="1438" height="1075" alt="Persona Screenshot" src="https://github.com/user-attachments/assets/3168437b-08a7-488d-b5a2-bf05151894ff" />
 
 
-
 # User stories: 
+
+## Frequent User (Deshan):
+As a frequent traveller and engineer, I want a clean and organised travel planning website that allows me to clearly view, edit, and update my daily itineraries quickly so that I can manage both business and leisure trips efficiently without wasting time.
+
+## Tasks Deshan will perform on the website: 
+
+- Open the website
+  
+-	Navigate to the “My Plans” Section
+  
+-	View previously created trip plans
+  
+-	Select an existing trip
+  
+-	Edit destinations or daily activities
+  
+-	Add or remove activities
+  
+-	Rearrange Itinerary days
+  
+-	Review the updated trip summary
+  
+-	Save the updated plan
+
+## Acceptance Criteria: 
+
+-	Accessing saved plans
+	
+-	Given Deshan has already created travel plans on the platform,
+	
+-	When he signs in and opens his dashboard,
+	
+-	Then he should be able to view a structured list of his previously saved trips.
+
+## Modifying an existing itinerary:
+
+-   Given Deshan selects one of his saved trips,
+
+- 	When he chooses the option to modify it,
+
+-	Then the itinerary details should open in an editable format.
+
+## 	Adjusting trip details:
+
+-	Given Deshan is updating his itinerary,
+
+-	When he changes dates or edits activities,
+
+-	Then the schedule should refresh immediately to reflect the new information.
+
+## Reviewing the updated plan:
+
+-	Given Deshan has finished making changes,
+
+-	When he reviews the trip overview,
+
+-	Then he should see a clear, organised breakdown of each day’s activities before saving.
+
+
 ## Returning User (John): 
 As a returning user and a father, I want the website to store my information as well as letting me reuse/edit my previous holiday plan so that I can save time when booking a new family holiday.   
 
@@ -95,66 +153,6 @@ As a returning user and a father, I want the website to store my information as 
 
 - Then he should clearly see a full price breakdown and the total amount. 
 
- 
-
-
-
-## Frequent User (Deshan):
-As a frequent traveller and engineer, I want a clean and organised travel planning website that allows me to clearly view, edit, and update my daily itineraries quickly so that I can manage both business and leisure trips efficiently without wasting time.
-
-## Tasks Deshan will perform on the website: 
-
-- Open the website
-  
--	Navigate to the “My Plans” Section
-  
--	View previously created trip plans
-  
--	Select an existing trip
-  
--	Edit destinations or daily activities
-  
--	Add or remove activities
-  
--	Rearrange Itinerary days
-  
--	Review the updated trip summary
-  
--	Save the updated plan
-
-## Acceptance Criteria: 
-
--	Accessing saved plans
-	
--	Given Deshan has already created travel plans on the platform,
-	
--	When he signs in and opens his dashboard,
-	
--	Then he should be able to view a structured list of his previously saved trips.
-
-## Modifying an existing itinerary:
-
--   Given Deshan selects one of his saved trips,
-
-- 	When he chooses the option to modify it,
-
--	Then the itinerary details should open in an editable format.
-
-## 	Adjusting trip details:
-
--	Given Deshan is updating his itinerary,
-
--	When he changes dates or edits activities,
-
--	Then the schedule should refresh immediately to reflect the new information.
-
-## Reviewing the updated plan:
-
--	Given Deshan has finished making changes,
-
--	When he reviews the trip overview,
-
--	Then he should see a clear, organised breakdown of each day’s activities before saving.
 
 
 
