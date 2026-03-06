@@ -34,8 +34,11 @@ The issues with the competitive Wanderlog website seen with images below is that
 
 # User stories: 
 
+
 ## Frequent User (Deshan):
 As a frequent traveller and engineer, I want a clean and organised travel planning website that allows me to clearly view, edit, and update my daily itineraries quickly so that I can manage both business and leisure trips efficiently without wasting time.
+
+
 
 ## Tasks Deshan will perform on the website: 
 
@@ -57,6 +60,8 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
   
 -	Save the updated plan
 
+
+
 ## Acceptance Criteria: 
 
 -	Accessing saved plans
@@ -67,6 +72,8 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 	
 -	Then he should be able to view a structured list of his previously saved trips.
 
+
+
 ## Modifying an existing itinerary:
 
 -   Given Deshan selects one of his saved trips,
@@ -75,6 +82,8 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 -	Then the itinerary details should open in an editable format.
 
+
+
 ## 	Adjusting trip details:
 
 -	Given Deshan is updating his itinerary,
@@ -82,6 +91,8 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 -	When he changes dates or edits activities,
 
 -	Then the schedule should refresh immediately to reflect the new information.
+
+
 
 ## Reviewing the updated plan:
 
@@ -92,8 +103,10 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 -	Then he should see a clear, organised breakdown of each day’s activities before saving.
 
 
+
 ## Returning User (John): 
 As a returning user and a father, I want the website to store my information as well as letting me reuse/edit my previous holiday plan so that I can save time when booking a new family holiday.   
+
 
 ## Tasks John will perform on the website: 
 
