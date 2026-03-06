@@ -183,5 +183,6 @@ As a returning user and a father, I want the website to store my information as 
 
 
 
-##References 
+## References 
+
 Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.
