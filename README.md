@@ -111,11 +111,10 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 As a returning user and a father, I want the website to store my information as well as letting me reuse/edit my previous holiday plan so that I can save time when booking a new family holiday.   
 
 
-## Tasks John will perform on the website: 
+## System Functional Requirements: 
 
--   Log into his account 
 
--   Click on ‘My Trips’ 
+-   Navigate to the “My Trips” section
 
 -   View previous holidays 
 
