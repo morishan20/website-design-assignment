@@ -40,9 +40,9 @@ As a frequent traveller and engineer, I want a clean and organised travel planni
 
 
 
-## Tasks Deshan will perform on the website: 
+## System Functional Requirements: 
 
-- Open the website
+-   Open the website
   
 -	Navigate to the “My Plans” Section
   
@@ -110,63 +110,63 @@ As a returning user and a father, I want the website to store my information as 
 
 ## Tasks John will perform on the website: 
 
-- Log into his account 
+-   Log into his account 
 
-- Click on ‘My Trips’ 
+-   Click on ‘My Trips’ 
 
-- View previous holidays 
+-   View previous holidays 
 
-- Select a past trip 
+-   Select a past trip 
 
-- Edit or rebook the trip 
+-   Edit or rebook the trip 
 
-- Change dates/activities 
+-   Change dates/activities 
 
-- Check the total cost 
+-   Check the total cost 
 
-- Confirm the trip or save it for later 
+-   Confirm the trip or save it for later 
 
  
 
 ## Acceptance Criteria: 
 
-- Viewing previous trips: 
+-   Viewing previous trips: 
 
-- Given John has an account and has booked from the website before, 
+-   Given John has an account and has booked from the website before, 
 
-- When he logs in and clicks ‘My Trips’, 
+-   When he logs in and clicks ‘My Trips’, 
 
-- Then he should see a list of his previous holidays. 
+-   Then he should see a list of his previous holidays. 
 
  
 
 ## Reusing previous trips: 
 
-- Given John is viewing a past holiday, 
+-   Given John is viewing a past holiday, 
 
-- When he selects ‘Rebook’ or ‘Edit’, 
+-   When he selects ‘Rebook’ or ‘Edit’, 
 
-- Then the trip details should appear ready to change. 
+-   Then the trip details should appear ready to change. 
 
  
 
 ## Updating information: 
 
-- Given John is editing the trip, 
+-   Given John is editing the trip, 
 
-- When he changes dates or activities, 
+-   When he changes dates or activities, 
 
-- Then the plan and total price should update automatically. 
+-   Then the plan and total price should update automatically. 
 
  
 
 ## Seeing total cost: 
 
-- Given John is reviewing the trip, 
+-   Given John is reviewing the trip, 
 
-- When he looks at the cost section, 
+-   When he looks at the cost section, 
 
-- Then he should clearly see a full price breakdown and the total amount. 
+-   Then he should clearly see a full price breakdown and the total amount. 
 
 
 
