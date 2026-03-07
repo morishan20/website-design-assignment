@@ -180,6 +180,8 @@ As a returning user and a father, I want the website to store my information as 
 
 ![UXHomescreen1](https://github.com/user-attachments/assets/d72d2f56-fd18-42b5-a1b1-35ba6515c436)
 
+![UXTrips1](https://github.com/user-attachments/assets/c60e5c10-7da1-4aba-9184-9f7ed8aa1a9c)
+![UXTrips2](https://github.com/user-attachments/assets/7c2d1113-693d-488f-91d3-a618e1e408d3)
 
 
 
