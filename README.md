@@ -170,7 +170,57 @@ As a returning user and a father, I want the website to store my information as 
 
 -   Then he should clearly see a full price breakdown and the total amount. 
 
+New User (Sam):
 
+System Functional Requirements
+
+Open the website
+
+Create a new user account
+
+Log in to the platform
+
+Navigate to the “Create Trip” section
+
+Enter basic trip information (destination, dates, number of travellers)
+
+View suggested destinations or activities
+
+Select suggested activities to add to the itinerary
+
+Generate a simple travel plan
+
+View the trip overview and daily schedule
+
+Save the trip plan for future editing
+
+Acceptance Criteria
+
+As a new user when he selects the option to sign up and enters his details, the system should successfully create his account and allow him to access the platform.
+
+Creating a new trip plan
+
+Then the system should generate a simple itinerary structure that he can begin editing
+
+Receiving travel suggestions
+
+The system should display suggested destinations, attractions, or activities he could add to his trip.
+
+Adding activities to the itinerary
+
+When he selects an activity or destination suggestion, the system should automatically add it to his trip itinerary.
+
+Reviewing the trip overview
+
+When he opens the trip overview page, he should see a clear and simple breakdown of his travel plan before saving it.
+
+Saving the trip plan
+
+Given Sam has finished creating his trip plan,
+
+When he selects the save option,
+
+Then the system should store the trip in his account so he can access or edit it later.
 
 
 # Website screenshots with justifications: 
