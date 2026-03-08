@@ -187,10 +187,15 @@ As a returning user and a father, I want the website to store my information as 
 
 
 
+## Colour Contrast Analysis
 
-
+<img width="1384" height="731" alt="Screenshot 2026-03-07 at 23 16 06" src="https://github.com/user-attachments/assets/5bf8ec40-0f40-46d1-9ab0-1a9697888494" />
 
 
 ## References 
 
 Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.
+
+## Credits
+
+-  Pic credit https://www.freepik.com/free-photo/cheerful-guy-enjoying-outdoor-coffee-break_4997448.htm#fromView=keyword&page=1&position=0&uuid=39d7fa33-a5cd-412c-9554-111a53a0280a&query=25+year+old+man
