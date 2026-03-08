@@ -209,12 +209,15 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 # Website screenshots with justifications: 
 
 ![homescreen light mode](https://github.com/user-attachments/assets/61e3c93b-d1b1-47e9-9dfa-10fd10153f0c)
+![UXHomescreen1](https://github.com/user-attachments/assets/d72d2f56-fd18-42b5-a1b1-35ba6515c436)
+<img width="1064" height="684" alt="Screenshot 2026-03-08 at 15 55 01" src="https://github.com/user-attachments/assets/c348fc3e-4a4a-4b9c-ac08-5c6b0d9d166e" />
+<img width="1001" height="630" alt="Screenshot 2026-03-08 at 15 54 09" src="https://github.com/user-attachments/assets/fdc2c717-034b-46d0-bb45-a6999fd61a43" />
 
 ![UXLogin](https://github.com/user-attachments/assets/28f1e447-d4a6-4859-ba99-fbaa6454d447)
 
 ![UXHomescreen2](https://github.com/user-attachments/assets/d18dbb90-1ab8-4f2f-b97f-874645b8b8fe)
 
-![UXHomescreen1](https://github.com/user-attachments/assets/d72d2f56-fd18-42b5-a1b1-35ba6515c436)
+
 
 ![UXTrips1](https://github.com/user-attachments/assets/c60e5c10-7da1-4aba-9184-9f7ed8aa1a9c)
 ![UXTrips2](https://github.com/user-attachments/assets/7c2d1113-693d-488f-91d3-a618e1e408d3)
