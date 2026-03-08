@@ -177,6 +177,9 @@ As a returning user and a father, I want the website to store my information as 
 
 ![homescreen light mode](https://github.com/user-attachments/assets/61e3c93b-d1b1-47e9-9dfa-10fd10153f0c)
 
+![UXLogin](https://github.com/user-attachments/assets/28f1e447-d4a6-4859-ba99-fbaa6454d447)
+
+![UXHomescreen2](https://github.com/user-attachments/assets/d18dbb90-1ab8-4f2f-b97f-874645b8b8fe)
 
 ![UXHomescreen1](https://github.com/user-attachments/assets/d72d2f56-fd18-42b5-a1b1-35ba6515c436)
 
