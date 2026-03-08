@@ -197,7 +197,7 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 
  - The system should display suggested destinations, attractions, or activities he could add to his trip.
 
-##Adding activities to the itinerary:
+## Adding activities to the itinerary:
 
  - When he selects an activity or destination suggestion, the system should automatically add it to his trip itinerary.
 
