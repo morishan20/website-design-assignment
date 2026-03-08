@@ -171,11 +171,12 @@ As a returning user and a father, I want the website to store my information as 
 -   Then he should clearly see a full price breakdown and the total amount.
 
 
-New User (Sam):
+##New User (Sam):
+
 As a new user who enjoys travelling, I would like a easy and simple wesbtie in which I can create an account and begin creating my plans for trips in a way that is simple and easy for me to view/edit if needed so that I can 
 
 
-System Functional Requirements:
+##System Functional Requirements:
 
  - Open the website
 
@@ -188,7 +189,7 @@ System Functional Requirements:
  - Generate a simple plan that can be viewed/edited later
 
 
-Acceptance Criteria:
+##Acceptance Criteria:
 
  - As a new user when he selects the option to sign up and enters his details, the system should successfully create his account and allow him to access the platform.
 
@@ -196,7 +197,7 @@ Acceptance Criteria:
 
  - The system should display suggested destinations, attractions, or activities he could add to his trip.
 
-Adding activities to the itinerary:
+##Adding activities to the itinerary:
 
  - When he selects an activity or destination suggestion, the system should automatically add it to his trip itinerary.
 
