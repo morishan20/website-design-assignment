@@ -168,59 +168,41 @@ As a returning user and a father, I want the website to store my information as 
 
 -   When he looks at the cost section, 
 
--   Then he should clearly see a full price breakdown and the total amount. 
+-   Then he should clearly see a full price breakdown and the total amount.
+
 
 New User (Sam):
+As a new user who enjoys travelling, I would like a easy and simple wesbtie in which I can create an account and begin creating my plans for trips in a way that is simple and easy for me to view/edit if needed so that I can 
 
-System Functional Requirements
 
-Open the website
+System Functional Requirements:
 
-Create a new user account
+ - Open the website
 
-Log in to the platform
+ - Create a new user account
 
-Navigate to the “Create Trip” section
+ - Enter basic trip information (destination, dates, number of travellers)
 
-Enter basic trip information (destination, dates, number of travellers)
+ - View suggested destinations or activities and add to plans if I wish
 
-View suggested destinations or activities
+ - Generate a simple plan that can be viewed/edited later
 
-Select suggested activities to add to the itinerary
 
-Generate a simple travel plan
+Acceptance Criteria:
 
-View the trip overview and daily schedule
+ - As a new user when he selects the option to sign up and enters his details, the system should successfully create his account and allow him to access the platform.
 
-Save the trip plan for future editing
+ - The system should generate a simple itinerary structure that he can begin editing
 
-Acceptance Criteria
+ - The system should display suggested destinations, attractions, or activities he could add to his trip.
 
-As a new user when he selects the option to sign up and enters his details, the system should successfully create his account and allow him to access the platform.
+Adding activities to the itinerary:
 
-Creating a new trip plan
+ - When he selects an activity or destination suggestion, the system should automatically add it to his trip itinerary.
 
-Then the system should generate a simple itinerary structure that he can begin editing
+ - He should be able to see a clear and simple breakdown of his travel plan before saving it.
 
-Receiving travel suggestions
-
-The system should display suggested destinations, attractions, or activities he could add to his trip.
-
-Adding activities to the itinerary
-
-When he selects an activity or destination suggestion, the system should automatically add it to his trip itinerary.
-
-Reviewing the trip overview
-
-When he opens the trip overview page, he should see a clear and simple breakdown of his travel plan before saving it.
-
-Saving the trip plan
-
-Given Sam has finished creating his trip plan,
-
-When he selects the save option,
-
-Then the system should store the trip in his account so he can access or edit it later.
+ - When Sam has finished creating his trip plan, the system should store the trip in his account so he can access or edit it later.
 
 
 # Website screenshots with justifications: 
