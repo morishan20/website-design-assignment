@@ -182,6 +182,8 @@ As a returning user and a father, I want the website to store my information as 
 
 ![UXTrips1](https://github.com/user-attachments/assets/c60e5c10-7da1-4aba-9184-9f7ed8aa1a9c)
 ![UXTrips2](https://github.com/user-attachments/assets/7c2d1113-693d-488f-91d3-a618e1e408d3)
+![UXTrips3](https://github.com/user-attachments/assets/0b695793-2f18-4e2f-bd7b-66845b633cb2)
+![UXTrips4](https://github.com/user-attachments/assets/70c67867-67d4-4d88-b503-2cc1e90432d3)
 
 
 
